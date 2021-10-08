@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Bots, that don''t get sued and shut down :)'
-    subtitle: Your guide to B2B marketing in the real world.
+    subtitle: That'll be true if you keep it between us
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
