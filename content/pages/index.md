@@ -61,23 +61,19 @@ sections:
     features:
       - title: About Me
         subtitle: Part-Time Irish Dev
-        content: |-
-          **Marketing in the real world** is very different than what we learn
-          at school. If you've recently graduated and are making your first
-          steps in the business, it's imperative that you know how to use the
-          tools and tricks of the trade.
+        content: >
+          I Dev in many areas such as front end web development to server side
+          Node.JS applications and everything in between.
 
 
-          > **The world of marketing has changed dramatically in the last 10
-          years. Those who understand it, will succeed. But those who stay
-          behind, will have a lot to catch up on.”**
+          I recently started hosting Discord Bots on a small general server in
+          the UK. This bot is popular amongst my friends and servers due to the
+          recent shutdown of other music bots. The music bot is online 24/7 and
+          the Minecraft server bot is also hosted on a general purpose server in
+          the UK
 
 
-          In this book I will teach you everything I know about B2B marketing.
-          From branding, marketing planning, content creation, SEO and PPC, to
-          segmenting your audience and understanding today's metrics and
-          analytics methodologies — this guide is the only marketing education
-          you'll ever need.
+          I hope you enjoy my few hours of productivity here and there. 
         image: images/brandon-guidelines.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
