@@ -82,7 +82,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: Download the e-book today
+    title: Become a Beta Tester Today
     actions:
       - label: Get the e-book
         url: /pricing
