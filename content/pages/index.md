@@ -43,9 +43,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: |-
-          “This book is inspiring and practical. It’s thought-provoking and full
-          of examples which definitely motivates me”
+      - title: '"These bots made '
         subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
         image: images/5605ee1c9dd7cc24008bd3ac-removebg-preview.png
         image_alt: Brandon Guidelines
