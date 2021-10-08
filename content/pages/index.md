@@ -74,7 +74,7 @@ sections:
 
 
           I hope you enjoy my few hours of productivity here and there. 
-        image: images/brandon-guidelines.jpg
+        image: images/gigachad-chad.gif
         image_alt: Brandon Guidelines Photo
         media_position: right
         media_width: fourty
