@@ -23,14 +23,10 @@ sections:
     features:
       - title: How it works
         subtitle: All Bots are currently In BETA
-        content: |-
-          - All you need to know about PPC
-          - How to create a brand that sells
-          - Putting together a multi-channel marketing plan
-          - Tracking, attribution and analytics
-          - Analyzing your competitors
-          - Marketing ads no one can ignore
-          - The social media of today
+        content: |
+          *   Fill in the form
+          *   Await a bot invite
+          *   Enjoy!
         actions:
           - label: Start learning
             url: /thank-you
