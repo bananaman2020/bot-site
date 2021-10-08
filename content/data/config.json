@@ -19,13 +19,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Start Learning",
-                "url": "/thank-you",
-                "style": "primary"
-            }
-        ],
+        "secondary_nav_links": [],
         "has_anncmnt": true,
         "anncmnt_content": "Hosted and Developed by KKGMedia. Part-time Dev, Full time RTX Enjoyer :)\n",
         "anncmnt_align": "left",
