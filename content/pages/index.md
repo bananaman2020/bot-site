@@ -46,7 +46,7 @@ sections:
       - title: >-
           "These bots made me gain a stable relationship with my family! They
           also got my crush to like me back
-        subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
+        subtitle: 'Joe Biden, England, America'
         image: images/5605ee1c9dd7cc24008bd3ac-removebg-preview.png
         image_alt: Brandon Guidelines
         media_position: left
