@@ -22,7 +22,7 @@ sections:
   - type: features_section
     features:
       - title: How it works
-        subtitle: How this book will teach you real world marketing
+        subtitle: All Bots are currently In BETA
         content: |-
           - All you need to know about PPC
           - How to create a brand that sells
