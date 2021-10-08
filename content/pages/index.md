@@ -60,7 +60,7 @@ sections:
   - type: features_section
     features:
       - title: About Me
-        subtitle: 'Brandon Guidelines, Marketing Guru'
+        subtitle: Part-Time Irish Dev
         content: |-
           **Marketing in the real world** is very different than what we learn
           at school. If you've recently graduated and are making your first
