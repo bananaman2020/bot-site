@@ -85,7 +85,7 @@ sections:
     title: Become a Beta Tester Today
     actions:
       - label: Get the e-book
-        url: /pricing
+        url: 'https://form.typeform.com/to/GrzbyVwY'
         style: primary
     actions_position: bottom
     align: center
