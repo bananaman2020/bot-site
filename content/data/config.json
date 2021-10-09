@@ -24,7 +24,7 @@
     "domain": "https://bot-site-jl684.ondigitalocean.app",
     "footer": {
         "logo_alt": "lorem-ipsum",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_title": "lorem-ipsum",
         "primary_nav_links": [],
         "has_secondary_nav": true,
