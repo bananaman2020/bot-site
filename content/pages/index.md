@@ -107,7 +107,7 @@ seo:
       value: Bots by Banana
       keyName: property
     - name: 'og:description'
-      value: The preview of the Book theme
+      value: 'Developed by ッbananaッ#0001 on behalf of KKGMedia.com'
       keyName: property
     - name: 'og:image'
       value: images/pink-white-blue-purple-paint-splash-hd-wallpaper-preview.jpg
