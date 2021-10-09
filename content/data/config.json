@@ -80,5 +80,6 @@
             }
         ],
         "content": "&copy; KKGMedia. All rights reserved. This Jamstack site was created with <a href=\"https://kkgmedia.com\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=book&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    }
+    },
+    "domain": "https://bot-site-jl684.ondigitalocean.app"
 }
