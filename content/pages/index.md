@@ -28,7 +28,7 @@ sections:
           *   Await a bot invite
           *   Enjoy!
         actions:
-          - label: Get Invite Link
+          - label: Get your Invite Link!
             url: 'https://form.typeform.com/to/GrzbyVwY'
             style: primary
             has_icon: true
