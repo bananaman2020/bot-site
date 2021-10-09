@@ -5,7 +5,7 @@ sections:
     title: 'Bots, that don''t get sued and shut down :)'
     subtitle: 'That''ll be true if you keep it between us, Ok?'
     actions:
-      - label: Get the book
+      - label: Get the invite link
         url: 'https://form.typeform.com/to/GrzbyVwY'
         style: primary
         has_icon: true
