@@ -21,5 +21,21 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://bot-site-jl684.ondigitalocean.app"
+    "domain": "https://bot-site-jl684.ondigitalocean.app",
+    "footer": {
+        "logo_alt": "lorem-ipsum",
+        "has_primary_nav": true,
+        "primary_nav_title": "lorem-ipsum",
+        "primary_nav_links": [],
+        "has_secondary_nav": true,
+        "secondary_nav_title": "lorem-ipsum",
+        "secondary_nav_links": [],
+        "has_tertiary_nav": true,
+        "tertiary_nav_title": "lorem-ipsum",
+        "tertiary_nav_links": [],
+        "has_social": true,
+        "social_links": [],
+        "content": "lorem-ipsum",
+        "links": []
+    }
 }
