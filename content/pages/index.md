@@ -29,7 +29,7 @@ sections:
           *   Enjoy!
         actions:
           - label: Start learning
-            url: /thank-you
+            url: 'https://form.typeform.com/to/GrzbyVwY'
             style: primary
             has_icon: true
             icon: arrow-right
