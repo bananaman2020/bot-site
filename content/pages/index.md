@@ -98,7 +98,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Bots by Banana
-  description: The preview of the Book theme
+  description: 'Developed by '
   extra:
     - name: 'og:type'
       value: website
