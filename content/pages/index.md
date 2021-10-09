@@ -98,7 +98,8 @@ sections:
     background_image_opacity: 10
 seo:
   title: Bots by Banana
-  description: 'Developed by '
+  description: |
+    Developed by ッbananaッ#0001 on behalf of KKGMedia.com
   extra:
     - name: 'og:type'
       value: website
