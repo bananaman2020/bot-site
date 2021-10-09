@@ -110,7 +110,7 @@ seo:
       value: The preview of the Book theme
       keyName: property
     - name: 'og:image'
-      value: images/book-preview.png
+      value: images/pink-white-blue-purple-paint-splash-hd-wallpaper-preview.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
