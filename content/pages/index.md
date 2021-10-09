@@ -104,7 +104,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Book Theme
+      value: Bots by Banana
       keyName: property
     - name: 'og:description'
       value: The preview of the Book theme
