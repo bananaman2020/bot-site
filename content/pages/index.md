@@ -6,7 +6,7 @@ sections:
     subtitle: 'That''ll be true if you keep it between us, Ok?'
     actions:
       - label: Get the book
-        url: /pricing
+        url: 'https://form.typeform.com/to/GrzbyVwY'
         style: primary
         has_icon: true
         icon: arrow-right
