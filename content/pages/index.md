@@ -84,7 +84,7 @@ sections:
   - type: cta_section
     title: Become a Beta Tester Today
     actions:
-      - label: Get the e-book
+      - label: Get Invite Link
         url: 'https://form.typeform.com/to/GrzbyVwY'
         style: primary
     actions_position: bottom
