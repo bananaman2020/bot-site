@@ -15,13 +15,13 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [],
         "has_anncmnt": true,
-        "anncmnt_content": "Hosted and Developed by KKGMedia. Part-time Dev, Full time RTX Enjoyer :)\n",
+        "anncmnt_content": "Hosted and Developed by plain.gg Part-time Dev, Full time RTX Enjoyer :)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://general.kkgmedia.com",
+    "domain": "https://bots.plain.gg",
     "footer": {
         "logo_alt": "lorem-ipsum",
         "has_primary_nav": false,
@@ -35,7 +35,7 @@
         "tertiary_nav_links": [],
         "has_social": true,
         "social_links": [],
-        "content": "Copyright KKGMedia.com",
+        "content": "Copyright Plain Inc.",
         "links": []
     }
 }
